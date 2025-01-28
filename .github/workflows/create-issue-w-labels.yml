@@ -25,5 +25,7 @@ jobs:
           -d "{
             \"title\": \"Label Bug from ${{ matrix.type }}\",
             \"body\": \"Demonstrates the Label Bug\",
+            \"assignees\": [\"anthms\"],
+            \"milestone\": 1,
             \"labels\": [\"ktest:test-22029\"]
           }"
