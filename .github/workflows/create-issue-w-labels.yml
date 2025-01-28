@@ -27,5 +27,5 @@ jobs:
             \"body\": \"Demonstrates the Label Bug\",
             \"assignees\": [\"anthms\"],
             \"milestone\": 1,
-            \"labels\": [\"ktest:test-22029\"]
+            \"labels\": [\"ktest:test-2202999\"]
           }"
